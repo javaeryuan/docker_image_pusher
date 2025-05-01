@@ -2,3 +2,6 @@
 --platform linux/arm64 redis:5
 --platform linux/arm64 nginx
 --platform linux/arm64 rabbitmq
+--platform linux/arm64 elasticsearch:7.17.28
+--platform linux/arm64 kibana:7.17.28
+--platform linux/arm64 logstash:7.17.28
