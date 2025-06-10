@@ -6,3 +6,4 @@
 --platform linux/arm64 kibana:7.17.28
 --platform linux/arm64 logstash:7.17.28
 --platform linux/arm64 mongo
+ kibana:7.15.2
