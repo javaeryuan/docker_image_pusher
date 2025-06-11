@@ -1,1 +1,1 @@
-docker.elastic.io/kibana/kibana:7.15.2
+kibana:7.15.2
